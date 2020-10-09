@@ -1,7 +1,7 @@
 # Ruan6 Company Website
-HTML + CSS Group Project
-by Group 6
-   Member: Hanna Tiara Andarlia, Lailatus Syifa, Lutfi Septian Akbar, Sarah Atsari, Yayang Wijaya
+## HTML + CSS Group Project
+by Group 6 <br>
+   _Member: Hanna Tiara Andarlia, Lailatus Syifa, Lutfi Septian Akbar, Sarah Atsari, Yayang Wijaya_ <br>
 Career Exploration #7 with Glints Academy and Progate
 
 
@@ -18,9 +18,9 @@ ________________________________
 Indonesian Translation/ Terjemahan Bahasa Indonesia
 ________________________________
 # Situs Perusahaan Ruan6
-Proyek Grup HTML + CSS
-oleh Grup 6
-    Anggota: Hanna Tiara Andarlia, Lailatus Syifa, Lutfi Septian Akbar, Sarah Atsari, Yayang Wijaya
+## Proyek Grup HTML + CSS
+oleh Grup 6 <br>
+    _Anggota: Hanna Tiara Andarlia, Lailatus Syifa, Lutfi Septian Akbar, Sarah Atsari, Yayang Wijaya_ <br>
 Career Exploration #7 dengan Glints Academy dan Progate
 
 
