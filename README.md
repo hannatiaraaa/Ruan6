@@ -27,7 +27,7 @@ Career Exploration #7 dengan Glints Academy dan Progate
 Ruan6 Company adalah perusahaan khayalan yang menawarkan platform pendidikan online bagi mereka yang lebih terdorong untuk belajar dari kamarnya di mana saja dan kapan saja.
 -----------------------------------------------
 
-Dalam repositori ini terbagi menjadi file * .html *, file * .css *, file * gambar desain logo *, dan file gambar lainnya di folder * gambar *.
+Dalam repositori ini terbagi menjadi file *.html*, file *.css*, file *gambar desain logo*, dan file gambar lainnya di folder *images*.
 Anda dapat melihat hasil proyek kami di tautan ini: hannatiaraaa.github.io/Ruan6
 
 Terima kasih
