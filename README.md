@@ -18,7 +18,7 @@ ________________________________
 Indonesian Translation/ Terjemahan Bahasa Indonesia
 ________________________________
 # Situs Perusahaan Ruan6
-## Proyek Grup HTML + CSS
+## Projek Grup HTML + CSS
 oleh Grup 6 <br>
     _Anggota: Hanna Tiara Andarlia, Lailatus Syifa, Lutfi Septian Akbar, Sarah Atsari, Yayang Wijaya_ <br>
 Career Exploration #7 dengan Glints Academy dan Progate
